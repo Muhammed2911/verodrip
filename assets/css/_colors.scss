@@ -1,0 +1,41 @@
+:root {
+  --main-color: #1f3857;
+  --second-color: #ff8f15;
+  --third-color: #008b78;
+  --text-color: #a1a6b2;
+  --error-color: #c21d1d;
+  --text-input-color: #4e627d;
+  --p-text-color: #677389;
+  --bg-color: #f4f6f8;
+  --auth-bg-color: #f4f6f8;
+  --logo-color: #47c2af;
+  --white: #fff;
+  --black: #000;
+  --radius: 10px;
+  --shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  --line-height: 1.7;
+  --main-margin: 80px;
+  --main-transition: 0.3s all;
+  --tabs-color: #c4c4c4;
+  --slider-p-color: #9f9f9f;
+}
+
+$main-color: var(--main-color);
+$second-color: var(--second-color);
+$third-color: var(--third-color);
+$text-color: var(--text-color);
+$bg-color: var(--bg-color);
+$white: var(--white);
+$black: var(--black);
+$radius: var(--radius);
+$error-color: var(--error-color);
+$text-input-color: var(--text-input-color);
+$auth-bg-color: var(--auth-bg-color);
+$logo-color: var(--logo-color);
+$shadow: var(--shadow);
+$line-height: var(--line-height);
+$main-margin: var(--main-margin);
+$main-transition: var(--main-transition);
+$tabs-color: var(--tabs-color);
+$p-text-color: var(--p-text-color);
+$slider-p-color: var(--slider-p-color);

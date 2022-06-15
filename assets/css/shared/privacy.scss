@@ -1,0 +1,20 @@
+.main_privacy_terms_wrapper {
+  padding-top: 90px;
+  .main_privacy_content {
+    .title {
+      color: $main-color;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 120%;
+    }
+    .privacy_one {
+      p {
+        color: $p-text-color;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 120%;
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
